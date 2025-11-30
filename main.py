@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from base import base   
+from base import base
 from  dotenv  import load_dotenv
 load_dotenv()
 
